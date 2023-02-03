@@ -1,0 +1,62 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Jhens Smit",
+      "company": "youtube",
+      "email": "jhens@gmail.com",
+      "title": "youtuber",
+      "mobile": "98754126",
+      "photo": "https://icons.veryicon.com/png/o/miscellaneous/two-color-icon-library/user-286.png",
+      "groupId": "3"
+    },
+    {
+      "id": "2",
+      "name": "Juan Perez",
+      "company": "youtube",
+      "email": "jhens@gmail.com",
+      "title": "youtuber",
+      "mobile": "98754126",
+      "photo": "https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/corporate-user-icon.png",
+      "groupId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Jhens Smit",
+      "company": "youtube",
+      "email": "jhens@gmail.com",
+      "title": "youtuber",
+      "mobile": "98754126",
+      "photo": "https://icons.veryicon.com/png/o/miscellaneous/two-color-icon-library/user-286.png",
+      "groupId": "4"
+    },
+    {
+      "name": "Jose Eduardo",
+      "photo": "https://static.thenounproject.com/png/3201587-200.png",
+      "email": "Eduardo@gmail.com",
+      "mobile": 984574542,
+      "company": "Twitter",
+      "title": "Influencer",
+      "groupId": "3",
+      "id": "FOA0Sfn"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Family"
+    },
+    {
+      "id": "2",
+      "name": "Service"
+    },
+    {
+      "id": "3",
+      "name": "Community"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}
